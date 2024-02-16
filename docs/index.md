@@ -15,7 +15,7 @@ Hello
     {% assign indent = page_segments.size | minus: depth | times: 2 %}
     {% assign padding = " " | times: indent %}
     
-    {{ padding }}- [{{ page.title }}]({{ page.url | relative_url }})
+    [{{ page.title }}]({{ page.url}})
   {% endif %}
 {% endfor %}
 
