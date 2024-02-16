@@ -1,5 +1,6 @@
 # Pages Demo
 Hello
+[test](/)
 
 <!-- Dynamic Sidebar -->
 
