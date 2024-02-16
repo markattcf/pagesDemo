@@ -3,12 +3,3 @@ description: A GitHub Repo Wiki
 remote_theme: markattcf/just-the-docs
 
 url: https://markattcf.github.io/pagesDemo
-
-plugins:
-  - "jekyll-github-metadata"
-  - "jekyll-seo-tag"
-  - "jekyll-coffeescript"
-  - "jekyll-commonmark-ghpages"
-  - "jekyll-gist"
-  - "jekyll-github-metadata"
-  - "jekyll-paginate"
